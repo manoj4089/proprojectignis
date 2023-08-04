@@ -1,0 +1,98 @@
+export const blogList = [
+    {      
+      id: 1,
+      title: 'abc',
+      category: 'Music',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      authorName: 'xyz',
+      authorAvatar: 'save.jpg',
+      createdAt: 'June 03, 1990',
+      cover: 'savee1.jpg',
+    },
+    {
+      id: 2,
+      title: 'abc',
+      category: 'Performing and Visual Arts',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+      authorAvatar: 'save.jpg',
+      createdAt: 'June 03, 1990',
+      cover: 'savee1.jpg',
+    },
+    {
+      id: 3,
+      title: 'abc',
+      category: 'Holiday',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+      authorAvatar: 'save.jpg',
+      createdAt: 'June 03, 1990',
+      cover: 'savee1.jpg',
+    },
+    {
+      id: 4,
+      title: 'abc',
+      category: 'Health',
+      subCategory:['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+        authorAvatar: 'save.jpg',
+        createdAt: 'June 03, 1990',
+        cover: 'savee1.jpg',
+    },
+    {
+      id: 5,
+      title: 'abc',
+      category: 'Hobbies',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+        authorAvatar: 'save.jpg',
+        createdAt: 'June 03, 1990',
+        cover: 'savee1.jpg',
+    },
+    {
+      id: 6,
+      title: 'abc',
+      category: 'Business',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+      authorAvatar: 'save.jpg',
+      createdAt: 'June 03, 1990',
+      cover: 'savee1.jpg',
+    },
+    {
+      id: 7,
+      title: 'abc',
+      category: 'Food and Drinks',
+      subCategory: ['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+        authorAvatar: 'save.jpg',
+        createdAt: 'June 03, 1990',
+        cover: 'savee1.jpg',
+    },
+    {
+      id: 8,
+      title: 'abc',
+      category: 'Sports and Fitness',
+      subCategory:['dummy1', 'dummy2', 'dummy3'],
+      description:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        authorName: 'xyz',
+        authorAvatar: 'save.jpg',
+        createdAt: 'June 03, 1990',
+        cover: 'savee1.jpg',
+    },
+  ];
